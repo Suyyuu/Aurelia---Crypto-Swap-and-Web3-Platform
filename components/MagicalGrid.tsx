@@ -4,10 +4,10 @@ const MagicalGrid = () => {
   return (
     <>
     <div className='gridContainer w-full border border-amber-50'>
-        <div className='card' style={{ ['--clr' as any]: '#f00' }}></div>
-        <div className='card' style={{ ['--clr' as any]: '#f00' }}></div>
-        <div className='card' style={{ ['--clr' as any]: '#f00' }}></div>
-        <div className='card' style={{ ['--clr' as any]: '#f00' }}></div>
+        <div className='card' style={{ ['--clr' as string]: '#f00' }}></div>
+        <div className='card' style={{ ['--clr' as string]: '#f00' }}></div>
+        <div className='card' style={{ ['--clr' as string]: '#f00' }}></div>
+        <div className='card' style={{ ['--clr' as string]: '#f00' }}></div>
     </div>
     </>
   )
