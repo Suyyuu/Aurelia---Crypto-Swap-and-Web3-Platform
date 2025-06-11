@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
-import ReadMoreButton from "./HeroButton";
-import HeroAnimatedButton from "./HeroButton";
+// import ReadMoreButton from "./HeroButton";
+// import HeroAnimatedButton from "./HeroButton";
 
 const HeroText = () => {
   return (
