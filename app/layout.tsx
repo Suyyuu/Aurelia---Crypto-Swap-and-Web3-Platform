@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aurelia | Digital currency for digital world",
-  description: "a crypto currency thats trailblazing.",
+  title: "Aurelia | Digital platform for digital age",
+  description: "a crypto currency platform thats trailblazing.",
 };
 
 export default function RootLayout({

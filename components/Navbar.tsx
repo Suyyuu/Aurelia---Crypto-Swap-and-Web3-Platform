@@ -18,7 +18,7 @@ const Navbar = () => {
 
         <ul className='hidden md:flex justify-between items-center gap-5 py-2 px-5 menuContainer'>
           <li>HOME</li>
-          <li>PRICING</li>
+          <li>PORTFOLIO</li>
           <li>CRYPTO LIST</li>
           <li>DeFi</li>
           <li>OPEN APP</li>

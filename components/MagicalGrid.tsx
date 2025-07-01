@@ -13,4 +13,4 @@ const MagicalGrid = () => {
   )
 }
 
-export default MagicalGrid
+export default MagicalGrid;
